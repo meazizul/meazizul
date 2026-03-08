@@ -2,7 +2,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Research%20Assistant;Machine%20Learning%20Engineer;NLP%20Researcher;LLM%20Evaluation%20Research;Applied%20Artificial%20Intelligence&center=true&width=500&height=50">
 
 
-# Hi 👋 I'm Azizul Haque
+# Hi 👋 I'm Azizul Haque 
+
+h003"}
+## 📊 GitHub Stats
+
+GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meazizul&layout=compact&theme=tokyo
 
 AI Research Assistant | Applied Artificial Intelligence Graduate Student | Machine Learning & NLP Engineer
 
