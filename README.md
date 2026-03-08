@@ -4,13 +4,6 @@
 
 # Hi 👋 I'm Azizul Haque 
 
-h003"}
-## 📊 GitHub Stats
-
-GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meazizul&layout=compact&theme=tokyo
-
 AI Research Assistant | Applied Artificial Intelligence Graduate Student | Machine Learning & NLP Engineer
 
 Currently pursuing **M.Eng in Applied Artificial Intelligence at Stevens Institute of Technology** and working on research related to **Large Language Models, NLP, and Accessible AI systems.**
@@ -103,3 +96,20 @@ New Jersey, USA
 ---
 
 ⭐ If you're interested in AI research or collaboration, feel free to connect!
+
+## 📊 GitHub Stats
+
+GitHub Stats
+
+Top Languages
+
+## ⚙️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,linux,vscode" />
+</p
+
+}
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=meazizul&color=blue
