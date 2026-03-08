@@ -109,7 +109,10 @@ Top Languages
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,linux,vscode" />
 </p
 
-}
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=meazizul&color=blue
+![Profile Views](https://komarev.com/ghpvc/?username=meazizul&color=blue)
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,linux,vscode" />
+</p>
+
