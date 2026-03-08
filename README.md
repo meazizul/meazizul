@@ -99,9 +99,9 @@ New Jersey, USA
 
 ## 📊 GitHub Stats
 
-GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meazizul&show_icons=true&theme=tokyonight)
 
-Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meazizul&layout=compact&theme=tokyonight)
 
 ## ⚙️ Tech Stack
 
@@ -111,8 +111,4 @@ Top Languages
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=meazizul&color=blue)
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,linux,vscode" />
-</p>
 
