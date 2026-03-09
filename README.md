@@ -88,7 +88,7 @@ https://linkedin.com/in/meazizul
 ## 📫 Contact
 
 Email  
-ahaque3@stevens.edu
+meazizul.ai@gmail.com
 
 Location  
 New Jersey, USA
